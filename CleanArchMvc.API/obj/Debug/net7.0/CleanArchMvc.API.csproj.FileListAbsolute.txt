@@ -1,0 +1,6 @@
+D:\_Cursos_Macoratti\Curso_Clean_Archictecture_Essencial\14_Migracao_NET7\CleanArchMvc1\CleanArchMvc.API\obj\Debug\net7.0\CleanArchMvc.API.csproj.AssemblyReference.cache
+D:\_Cursos_Macoratti\Curso_Clean_Archictecture_Essencial\14_Migracao_NET7\CleanArchMvc1\CleanArchMvc.API\obj\Debug\net7.0\CleanArchMvc.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Cursos_Macoratti\Curso_Clean_Archictecture_Essencial\14_Migracao_NET7\CleanArchMvc1\CleanArchMvc.API\obj\Debug\net7.0\CleanArchMvc.API.AssemblyInfoInputs.cache
+D:\_Cursos_Macoratti\Curso_Clean_Archictecture_Essencial\14_Migracao_NET7\CleanArchMvc1\CleanArchMvc.API\obj\Debug\net7.0\CleanArchMvc.API.AssemblyInfo.cs
+D:\_Cursos_Macoratti\Curso_Clean_Archictecture_Essencial\14_Migracao_NET7\CleanArchMvc1\CleanArchMvc.API\obj\Debug\net7.0\CleanArchMvc.API.csproj.CoreCompileInputs.cache
+D:\_Cursos_Macoratti\Curso_Clean_Archictecture_Essencial\14_Migracao_NET7\CleanArchMvc1\CleanArchMvc.API\obj\Debug\net7.0\CleanArchMvc.API.MvcApplicationPartsAssemblyInfo.cache

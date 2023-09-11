@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CleanArchMvc.API</name>
+    </assembly>
+    <members>
+        <member name="M:CleanArchMvc.API.Controllers.CategoriesController.Get(System.Int32)">
+            <summary>
+            Localiza uma categoria específica pelo Id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CleanArchMvc.API.Controllers.CategoriesController.Delete(System.Int32)">
+            <summary>
+            Deleta uma categoria específica
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
